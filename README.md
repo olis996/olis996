@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olis996
+- 👋 Hi, I’m Oli (@olis996)
 - 👀 I’m interested in AI, machine learning, and FinTech
 - 🌱 I’m currently learning python and Pandas
 - 💞️ I’m looking to collaborate on anything interesting to do with ML or FinTech
